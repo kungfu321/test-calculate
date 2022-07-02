@@ -1,0 +1,52 @@
+.root {
+    text-align: -webkit-center;
+}
+
+.header {
+    height: 70px;
+    background: #c10708 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.text {
+    font: normal normal normal 18px/16px Varela Round;
+    letter-spacing: 0.54px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.label {
+    text-align: center;
+    letter-spacing: 0px;
+    color: #a4a4a4;
+    margin-bottom: 20px;
+}
+
+.button {
+    margin-top: 20px;
+}
+
+.divider {
+    background-color: #c10708;
+    height: 1px;
+    width: 100%;
+    margin: 40px 0;
+}
+
+.result {
+    margin-top: 20px;
+}
+
+.notFound {
+    color: #a4a4a4;
+}
+
+.message {
+    color: #c10708;
+    margin-top: 10px;
+    font-size: 12px;
+}

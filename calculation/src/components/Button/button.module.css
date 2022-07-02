@@ -1,0 +1,14 @@
+.root {
+    border: 1px solid #c10708;
+    border-radius: 2px;
+    width: 227px;
+    height: 36px;
+    letter-spacing: 0.16px;
+    background-color: #c10708;
+    color: white;
+}
+
+.root:hover {
+    background-color: white;
+    color: #c10708;
+}
